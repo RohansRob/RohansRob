@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohanav1998@gmail.com**
 
-- ⚡ Fun fact **I'm an Professional Photographer**
+- ⚡ Fun fact **I'm an Nature Photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
