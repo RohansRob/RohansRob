@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs and DS&Algo**
 
-- 💬 Ask me about **Python , NodeJs , JavaScript ,**
+- 💬 Ask me about **Python , NodeJs , JavaScript **
 
 - 📫 How to reach me **rohanav1998@gmail.com**
 
