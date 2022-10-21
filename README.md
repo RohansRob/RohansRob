@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/57/a2/ca57a2dbfa5d5f00df122c7e5187def1.gif)
 <h1 align="center">Hi 👋, I'm Rohan Rawat</h1>
-<h3 align="center">A passionate Web developer from UK</h3>
+<h3 align="center">A passionate Software developer from UK</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansrob&label=Profile%20views&color=0e75b6&style=flat" alt="rohansrob" /> </p>
