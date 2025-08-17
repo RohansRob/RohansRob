@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)
 <h1 align="center">Hi 👋, I'm Rohan Rawat</h1>
-<h3 align="center">A passionate Software developer from UK</h3>
+<h3 align="center">A passionate Software and data Analyst from UK</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansrob&label=Profile%20views&color=0e75b6&style=flat" alt="rohansrob" /> </p>
