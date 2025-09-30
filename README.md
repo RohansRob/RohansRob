@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Python , NodeJs , JavaScript**
 
-- 📫 How to reach me **rohanav1998@gmail.com**
+- 📫 How to reach me **rohanav1998@gmail.com &
+                      www.linkedin.com/in/rohan-rawat-059573146/**              
 
 - ⚡ Fun fact **I'm a Nature Photographer**
 
